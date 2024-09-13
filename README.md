@@ -4,7 +4,7 @@ This PowerBI dashboard visualizes crime data across Indiana, providing insights 
 
 ## Dashboard Preview
 
-![Indiana Crime Data Dashboard](./path-to-your-image.png)
+![Indiana Crime Data Dashboard](https://github.com/ChiranthanS/Visualisation/blob/main/dashboard.png)
 
 ## Live Dashboard
 
